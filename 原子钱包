@@ -1,0 +1,6 @@
+cd atomicals-js
+npm install -g yarn
+npm install
+npm run build
+创建钱包：yarn cli wallet-inityarn cli wallet-init
+yarn cli mint-dmitem #mycoolcontainername "0000" "file1.png"
